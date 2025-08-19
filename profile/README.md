@@ -1,4 +1,6 @@
-## MyHomeCatch
+<h2 align="center">MyHomeCatch</h2>
+
+<p align="center">🧩 체계적인 청약 정보 제공 플랫폼 🧩</p>
 
 
 
